@@ -66,7 +66,4 @@ Prompt Templates: Clean formatting for model prompts.
 
 Token Trimming: Demonstrates trimming old messages to fit within the context window.
 
-Chained Interaction: Using Runnable chains that integrate all parts into one coherent flow.
-
-🤝 Contributing
-Feel free to fork, improve, and contribute! You can enhance functionality, integrate other Groq-supported models, or improve message formatting and memory handling.
+Chained Interaction: Using Runnable chains that integrate all parts into one coherent flow
